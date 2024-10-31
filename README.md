@@ -6,6 +6,8 @@
 </head>
 <body>
 
+<img width="871" alt="pic1" src="https://github.com/user-attachments/assets/f50bfa4d-e7d0-48cd-9cef-352fcd0fb214">
+
 <h1>Q&amp;Ask the Oracle</h1>
 
 <img src="https://img.shields.io/badge/Chatbot-Gemini-blue" alt="Chatbot Badge">
